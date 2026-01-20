@@ -1,17 +1,8 @@
 ### Boas vindas ao meu perfil 👍
-Meu nome é Arthur Felipe
+Aqui é o Happy
 
-  • Estou estudando na Alura
-
-  • Estou me desenvolvendo na linguagem JavaScript
-
-  • Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-
-### Você pode entrar em contato comigo 📫
-
-00001106554541sp@al.educacao.sp.gov.br
-
-@Haaapppyyy
+Atualmente estou na área de desenvolvimento de jogos, empenhado no game "The Dark Paladin" um game que promete trazer muito sucesso.
+Estou realmente focado nesses projetos, mas qualquer outro que possa aparecer, também vou pra cima.
 
 ![](https://media.tenor.com/5NNbKFdAm6wAAAAi/emoji-smiley.gif)
 
